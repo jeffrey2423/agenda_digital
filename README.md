@@ -1,2 +1,2 @@
 # agenda_digital
-Sistema gestión de citas
+Sistema gestión de citas #SGC
